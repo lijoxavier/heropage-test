@@ -153,6 +153,7 @@ nav a:active {
     width: 24px;
     height: 24px;
     margin-right: 10px;
+    accent-color:#25DAC5;
 }
 
 .signup input[type=checkbox]:checked {
